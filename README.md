@@ -1,0 +1,1 @@
+python manage.py startapp blog apps/blog アプリ作成時のコマンド
